@@ -1,0 +1,9 @@
+# Keep game repo separate — WONML has its own GitHub repo
+Team Inbox/WONML/
+
+# Keep team inbox documents local only
+Team Inbox/
+
+# Mac system files
+.DS_Store
+**/.DS_Store
