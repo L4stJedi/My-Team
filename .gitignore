@@ -7,3 +7,6 @@ Team Inbox/
 # Mac system files
 .DS_Store
 **/.DS_Store
+
+# Claude local settings
+.claude/
